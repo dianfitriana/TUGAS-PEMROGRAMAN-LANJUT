@@ -37,3 +37,5 @@ else if (input == 3){
 	}
 }
 }
+
+percobaan();
